@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+	<head>
+        <meta charset="UTF-8">
+		<link rel="stylesheet" href="jb_main.css" type="text/css" media="screen">
+		<title>JB Web Site</title>
+	</head>
+
+	<body>
+
+<!-- Banner -->
+		<span id="head">John's Home WEB Page</span>
+      
+<!-- Column 1 -->
+	<div id="col1">
+
+		 <a class="row1" title="Natwest Bank" href="http://www.natwest.com/">
+		 <img border="0" src="Natwest 200 80.gif"></a>
+  	 
+	</div>
+
+	</body>
+</html>
+
+ body {background-color: #E0D8FF}
+
+ div, a {position: absolute}
+ span#head {font-family: "Comic Sans MS", sans-serif; font-size: 300%; color: #FF4444; margin-left: 90px}
+ img#title {position: absolute; top: 10px; left: 10px; width: 66px; height: 65px}
+ img {width: 100px; height: 40px}
+
+ h7 {}
+ div#col1 {left:  10px; top: 85px}
+ div#col2 {left: 125px; top: 85px}
+ div#col3 {left: 240px; top: 85px}
+ div#col4 {left: 355px; top: 85px}
+ div#col5 {left: 470px; top: 85px}
+ div#col6 {left: 585px; top: 85px}
+ div#col7 {left: 700px; top: 85px}
+ div#col8 {left: 815px; top: 85px}
+ div#col9 {left: 930px; top: 85px}
+ div#col10 {left: 1045px; top: 85px}
+
+ a.row1 {top:   0px}
+ a.row2 {top:  50px}
+ a.row3 {top: 100px}
+ a.row4 {top: 150px}
+ a.row5 {top: 200px}
+ a.row6 {top: 250px}
+ a.row7 {top: 300px}
+ a.row8 {top: 350px}
+ a.row9 {top: 400px}
+ a.row10 {top: 450px}
